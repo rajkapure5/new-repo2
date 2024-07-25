@@ -40,7 +40,7 @@ driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	
 			}
 		}
-		
+		}
 	
 
 
