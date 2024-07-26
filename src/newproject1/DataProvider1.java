@@ -34,3 +34,5 @@ public class DataProvider1 {
 		return object;
 	}
 }
+}
+}
